@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=forkposix&label=PROFILE+VIEWS)
+![](https://hit.yhype.me/github/profile?user_id=22747808)
 
 <!--
 **forkposix/forkposix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
